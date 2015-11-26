@@ -22,12 +22,14 @@ String uncicorn = JOptionPane.showInputDialog("spell it");
 if (uncicorn.equalsIgnoreCase("mandlebrot")) {
 	
 } else {
-
+speak ("Wrong");
 }
 		// 4. Otherwise say "wrong"
 
 		// 5. repeat the process for other words
-		
+for (int i = 0; i < ; i++) {
+	
+}		
 	}
 
 	static void speak(String words) {
